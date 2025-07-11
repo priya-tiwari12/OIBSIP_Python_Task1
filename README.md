@@ -1,4 +1,4 @@
-# OIBSIP_Python_Task1
+# OIBSIP_webdevelopment_Task1
 Project Title: Personal Portfolio Webpage
 📖 Objective
 The objective of this project is to create a personal portfolio website using HTML and CSS. It showcases basic web development skills, including layout creation, image embedding, hyperlinking, and use of semantic HTML elements. This project serves as an introductory exercise for practicing clean HTML structure, improving attention to syntax, and presenting personal/professional information.
